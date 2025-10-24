@@ -1,0 +1,7 @@
+let x = 5;
+let y = 20000;
+print(x * y);
+
+let diff = x - y;
+print(diff);
+print(x + y + diff);
